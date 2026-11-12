@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "L&#x27;Effusion",
+    "description": "",
+    "home_page_url": "https://leffusion.github.io/leffusion",
+    "feed_url": "https://leffusion.github.io/leffusion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "L&#x27;Effusion"
+    },
+    "items": [
+        {
+            "id": "https://leffusion.github.io/leffusion/leffusion/",
+            "url": "https://leffusion.github.io/leffusion/leffusion/",
+            "title": "L&#x27;Effusion",
+            "author": {
+                "name": "L&#x27;Effusion"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-12T11:15:20+01:00",
+            "date_modified": "2026-11-12T11:15:20+01:00"
+        }
+    ]
+}

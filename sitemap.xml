@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://leffusion.github.io/leffusion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://leffusion.github.io/leffusion/</loc>
+</url>
+<url>
+<loc>https://leffusion.github.io/leffusion/contact/</loc>
+<lastmod>2026-11-12T11:33:23+01:00</lastmod>
+</url>
+<url>
+<loc>https://leffusion.github.io/leffusion/grises/</loc>
+<lastmod>2026-11-12T11:33:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://leffusion.github.io/leffusion/ipe/</loc>
+<lastmod>2026-11-12T11:32:50+01:00</lastmod>
+</url>
+<url>
+<loc>https://leffusion.github.io/leffusion/leffusion/</loc>
+<lastmod>2026-11-12T11:15:20+01:00</lastmod>
+</url>
+<url>
+<loc>https://leffusion.github.io/leffusion/leffusion-2/</loc>
+<lastmod>2026-11-12T11:33:14+01:00</lastmod>
+</url>
+</urlset>

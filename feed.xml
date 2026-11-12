@@ -3,22 +3,10 @@
     <title>L&#x27;Effusion</title>
     <link href="https://leffusion.github.io/leffusion/feed.xml" rel="self" />
     <link href="https://leffusion.github.io/leffusion" />
-    <updated>2026-11-12T11:15:20+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>L&#x27;Effusion</name>
     </author>
     <id>https://leffusion.github.io/leffusion</id>
 
-    <entry>
-        <title>L&#x27;Effusion</title>
-        <author>
-            <name>L&#x27;Effusion</name>
-        </author>
-        <link href="https://leffusion.github.io/leffusion/leffusion/"/>
-        <id>https://leffusion.github.io/leffusion/leffusion/</id>
-
-        <updated>2026-11-12T11:15:20+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
